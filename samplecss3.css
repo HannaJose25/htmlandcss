@@ -1,0 +1,13 @@
+img{
+    height: 250px;
+    width: 250px;
+
+}
+
+.parent{
+    display: flex;
+    height: 100vh;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+    }

@@ -1,0 +1,19 @@
+h2{
+    color:palevioletred;
+    background-color: pin;
+}
+body{
+    background-color: green;
+}
+button{
+ background-color: blue;
+ color: white;
+}
+button:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+div{
+    height: 20px;
+    width: 30px;
+}

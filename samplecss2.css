@@ -1,0 +1,42 @@
+div{
+    
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+.box1{
+    height: 150px;
+    width: 150px;
+    color: white;
+    background-color: rgb(42, 241, 102);
+    margin-top: 20px;  
+    padding-left :15px;
+    border-style: solid;
+    border-color: red;
+     
+}
+.box2{
+    height: 150px;
+    width: 150px;
+    color: white;
+    background-color: rgb(42, 241, 102);
+    margin-top: 20px;
+    padding-left: 15px;
+    border-style: ridge;
+    border-color: red;
+}
+.box3{
+    height: 150px;
+    width: 150px;
+    color: white;
+    background-color: rgb(42, 241, 102);
+    margin-top: 20px;
+    padding-left: 15px;
+    border-style: solid;
+    border-color: red;
+}
+*{
+    box-sizing: border-box;
+}
